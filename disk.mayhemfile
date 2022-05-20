@@ -1,0 +1,5 @@
+project: ntfs-rust
+target: disk
+
+cmds:
+  - cmd: /disk
